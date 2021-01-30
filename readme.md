@@ -26,17 +26,16 @@ A decline in Atlantic meridional overturning circulation (AMOC) strength has bee
 
 Status
 ----------
-  The [paper](https://emmaworthington.github.io//) was published in
-  in [Ocean Science](http://agupubs.onlinelibrary.wiley.com/agu/journal/10.1002/(ISSN)1944-8007/),
-  [doi: 10.1002/2016GL071349](http://onlinelibrary.wiley.com/doi/10.1002/2016GL071349/full).
-  [Supporting information](https://github.com/crocha700/UpperOceanSeasonality/blob/master/writeup/rocha_etal_supporting-info.pdf) and [figures](https://github.com/crocha700/UpperOceanSeasonality/blob/master/writeup/figs/) are also available. Comments, questions, and suggestions are extremely welcome
-  and warmly appreciated. Feedback can be submitted through github [issues](https://github.com/crocha700/UpperOceanSeasonality/issues) or via e-mail to
+  The [paper](https://emmaworthington.github.io//) was accepted  for publishing in [Ocean Science](https://os.copernicus.org/preprints/os-2020-71/),
+  [doi:/10.5194/os-17-1-2021](https://doi.org/10.5194/os-17-1-2021).
+  Comments, questions, and suggestions are welcome
+  and warmly appreciated. Feedback can be submitted through github [issues](https://github.com/emmaworthington/amoc-reconstruction/issues) or via e-mail to
   Emma Worthington (emma.worthington@soton.ac.uk).
 
 Code
 ----
 The majority of analysis was done using code written by the first author in Python. This code uses the [Scientific
-Python stack](https://www.scipy.org/install.html) and the excellent [xarray](http://xarray.pydata.org/en/stable/) package. A subset of that code is made available here, sufficient to reproduce the results.
+Python stack](https://www.scipy.org/install.html) and the excellent [xarray](http://xarray.pydata.org/en/stable/) package. A subset of that code is made available here, sufficient to reproduce the main results.
 
 The project also adapted code developed by the [RAPID project team](https://www.rapid.ac.uk) for processing mooring data, this code is not shared here. The project also uses a small piece of Matlab code developed by [Eleanor Frajka-Williams](https://www.researchgate.net/profile/Eleanor-Frajka-Williams) which uses the [jlilly Matlab package](http://jmlilly.net/software.html).
 
