@@ -17,7 +17,7 @@ Key Points
 ----------
 
   - A reconstruction of the AMOC using an empirical regression model shows no decline between 1981 and 2015.
-  - The resolution of the reconstruction is improved enough to show decadal and pentadal variability
+  - The resolution of the reconstruction is sufficient to show decadal and pentadal variability
   - The dynamics of the AMOC at 26°N mean that single-layer models are insufficient to reconstruct low frequency changes associated with deep water masses.
 
 Abstract
